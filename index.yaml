@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  qqchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-18T00:00:52.370967706Z"
+    description: A Helm chart for Kubernetes
+    digest: 1272ec2d08054816cf18008d6de531bfd78f9a39ce7671858ea40f5624197b70
+    name: qqchart
+    type: application
+    urls:
+    - charts/qqchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-18T00:00:52.369248968Z"
